@@ -15,3 +15,8 @@ Delve a little deeper, do some research, and find out what do the following mean
 `out` - a static variable within System that represents the output of the program (stdout)
 
 `println` - a method of out that can be used to print a line
+
+* The filename should match the name of the class, and end in .java
+* Run `javac FileName.java` to compile the code
+* This creates a .class file containing the bytecode
+* Run `java FileName` to execute the code.
